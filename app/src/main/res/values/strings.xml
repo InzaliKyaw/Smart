@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+</resources>
